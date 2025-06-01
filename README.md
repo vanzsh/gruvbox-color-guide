@@ -24,7 +24,7 @@ You can use this guide to:
 
 ## ⬇️ Download
 
-- [PDF version](./Gruvbox-Color-Guide.pdf)  
+- [PDF version](./gruvbox-theme-color-palette-guide.pdf)  
 - Coming soon: `.xlsx`, `.csv`, `.json`, `.svg`
 
 ## 🌱 Inspiration
