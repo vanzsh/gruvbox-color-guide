@@ -42,7 +42,7 @@ I built this for myself and anyone else who needs quick and structured access to
 Pull requests, issues, and format converters are welcome!  
 If you’d like to:
 - Improve formatting or accessibility
-- Request for more infromation
+- Request for more information
 
 Please open an issue or PR.
 
